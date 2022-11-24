@@ -1,2 +1,3 @@
 # Tarea-de-tkinter
-Crear un graficador con tkinter que grafiq2ue la funciones lineales, cuadráticas,  cubicas, exponenciales y logarítmicas
+Crear un graficador con tkinter que grafique la funciones lineales, cuadráticas,  cubicas, exponenciales ,logarítmicas y Trigonometricas
+
